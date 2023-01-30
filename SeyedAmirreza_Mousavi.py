@@ -26,7 +26,7 @@ cur=conn.cursor()
 
 #bot id : @privatechat_2021bot
 
-updater=Updater(token='1853991623:AAFNPvIhm0RiYUuRqNeiNVHnKNNgAlpflGs',use_context=True)
+updater=Updater(token='your token here',use_context=True)
 
 dispatcher=updater.dispatcher
 
